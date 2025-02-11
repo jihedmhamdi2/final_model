@@ -1,11 +1,9 @@
 {
-  "name": "your-project-name",
+  "name": "final_model",
   "description": "Your project description",
   "require": {
     "php": "^8.2",
     "laravel/framework": "^10.0"
-    "require": {
-    "php": "^8.2"
   },
   "autoload": {
     "psr-4": {
